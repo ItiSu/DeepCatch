@@ -26,7 +26,7 @@ A sophisticated phishing detection web application that combines a fine-tuned BE
 - [Model Details](#model-details)
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
-- [Team](#team)
+
 
 ## Overview
 
@@ -473,17 +473,6 @@ pip install --force-reinstall -r requirements.txt
 
 This is a class project for CS 410 Seminar. Contributions, suggestions, and feedback are welcome from team members.
 
-## Team
-
-**Seminar (CS 410) Project - Team LogLine**
-
-| Name | Role |
-|------|------|
-| Bikash Gautam | Backend Development, ML Integration |
-| Dipin Dawadi | Frontend Design, Testing |
-| Itiza Subedi | Project Management, Documentation |
-| Jesse Yankey | UI/UX Design, Research |
-| Sudeep Joshi | Model Research, Quality Assurance |
 
 ## License
 
