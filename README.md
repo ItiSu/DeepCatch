@@ -30,7 +30,7 @@ A sophisticated phishing detection web application that combines a fine-tuned BE
 
 ## Overview
 
-DeepCatch is a web-based phishing detection system developed as a CS 410 Seminar project. It combines two AI technologies:
+DeepCatch is a web-based phishing detection system. It combines two AI technologies:
 
 1. **Hugging Face BERT Model** - For initial phishing classification (Phishing vs. Safe)
 2. **DeepSeek AI** - For generating detailed explanations of phishing indicators
