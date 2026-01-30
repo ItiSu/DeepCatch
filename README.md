@@ -39,7 +39,7 @@ This hybrid approach provides both accurate detection and comprehensive analysis
 
 ## Features
 
-### 🔍 Dual AI-Powered Detection
+###  Dual AI-Powered Detection
 - **BERT Classification** - Uses `ealvaradob/bert-finetuned-phishing` for accurate phishing/safe classification
 - **DeepSeek Explanations** - Generates natural language explanations of why content is flagged
 - **Confidence Scoring** - Percentage-based confidence meter with visual bar
