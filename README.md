@@ -5,9 +5,15 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+<img width="2557" height="534" alt="Image" src="https://github.com/user-attachments/assets/5b468352-b89a-4dae-9b43-007fe4d1a077" />
+
+<img width="2560" height="1093" alt="Image" src="https://github.com/user-attachments/assets/a1d64493-b9b7-465a-8c05-ca66604077c6" />
+
+<img width="2559" height="975" alt="Image" src="https://github.com/user-attachments/assets/fb3e231c-f142-46ae-849d-20755738e570" />
+
 A sophisticated phishing detection web application that combines a fine-tuned BERT model with advanced AI explanations. DeepCatch uses the `ealvaradob/bert-finetuned-phishing` model from Hugging Face for accurate classification, and DeepSeek AI to generate detailed explanations of why content is flagged as phishing.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -39,14 +45,14 @@ This hybrid approach provides both accurate detection and comprehensive analysis
 - **Confidence Scoring** - Percentage-based confidence meter with visual bar
 - **Risk Highlighting** - Highlights risky parts of content with color-coded tags
 
-### 🎨 Rich User Interface
+###  Rich User Interface
 - Clean, modern black & white design
 - Real-time text analysis
 - 12 pre-loaded test examples (6 phishing + 4 safe + 2 SMS)
 - Responsive design for mobile and desktop
 - Character counter with visual feedback
 
-### 📊 Comprehensive Results
+###  Comprehensive Results
 - **Classification** - Phishing or Safe verdict
 - **Confidence Score** - Percentage-based confidence meter
 - **AI Explanation** - Detailed explanation of why content is suspicious
@@ -57,7 +63,7 @@ This hybrid approach provides both accurate detection and comprehensive analysis
   - Extracted URLs list
   - Analysis time tracking
 
-### 🚀 Easy to Use
+###  Easy to Use
 - Paste any text, email, SMS, or URL
 - One-click analysis
 - Pre-loaded test examples
