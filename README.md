@@ -485,16 +485,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [DeepSeek AI](https://deepseek.com/) for the explanation generation API
 - [FastAPI](https://fastapi.tiangolo.com/) team for the excellent web framework
 - [PyTorch](https://pytorch.org/) team for the deep learning framework
-- CS 410 Seminar instructors and peers for guidance and feedback
 
 ## Support
 
 For issues, questions, or suggestions:
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Review the [ARCHITECTURE.md](ARCHITECTURE.md) file
-3. Contact team members
 
 ---
-
-**Last Updated:** January 2026  
-**Version:** 1.0.0
